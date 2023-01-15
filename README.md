@@ -1,6 +1,6 @@
 # My Calculator Dapp
 
-An example Calculator dapp built on the Solana network.
+An example Calculator dapp built on the Solana network using the Anchor framework.
 
 ## Things Learned
 
